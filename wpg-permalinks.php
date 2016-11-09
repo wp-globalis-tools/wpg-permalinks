@@ -11,7 +11,7 @@
  * Tested up to:        4.6.0
  */
 
-namespace WPG\Permalinks;
+namespace Globalis\Permalinks;
 
 /**
  * Return fallback permalink
